@@ -8,7 +8,7 @@
 
 ### Commands that you can use to manage your parking lot
 
- 1. "create_parking_lot <number>" To create your parking lot capacity
- 2.  "park <Registration Number> <Color>" To add car in parking lot
- 3. "leave <Registration Number> <Parking Time>" to release slot and get bills
- 4. "status" View  all car in parking lot
+ 1. `create_parking_lot <number>` To create your parking lot capacity
+ 2. `park <Registration Number> <Color>` To add car in parking lot
+ 3. `leave <Registration Number> <Parking Time>` to release slot and get bills
+ 4. `status` View  all car in parking lot
